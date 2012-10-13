@@ -1,2 +1,2 @@
-flex-projects
+All Projects
 =============
